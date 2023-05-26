@@ -1,2 +1,4 @@
 # Frequency
-For now, it's only a drop of water in a cold ocean.
+
+Bem-vindo ao Frequency, onde você pode encontrar as 1000 palavras mais frequentes de um idioma classificadas por categoria. Através dessa ferramenta, você pode acessar o conteúdo de uma forma mais simples e direta, sem precisar procurar termos complicados ou especializados. Nossa abordagem é simples e eficaz, tornando a aprendizagem de um novo idioma uma tarefa mais acessível e agradável para todos. Com apenas alguns cliques, você terá acesso a um banco de palavras essenciais, organizadas por categorias temáticas que ajudam a entender como as palavras se relacionam entre si. Seja você um estudante de idiomas ou um profissional que busca aprimorar suas habilidades linguísticas, Frequency é uma ferramenta indispensável para expandir seus conhecimentos e melhorar sua fluência.
+sb

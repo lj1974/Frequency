@@ -1,5 +1,7 @@
+import Initial from "./pages/Initial";
+
 function App() {
-  return <div className="App"></div>;
+  return <Initial />;
 }
 
 export default App;

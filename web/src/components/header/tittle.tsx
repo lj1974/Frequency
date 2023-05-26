@@ -18,7 +18,7 @@ export default Tittle;
 const PutTittle = styled.div`
   font-size: min(2em, 2.4em);
   color: ${dark.lighthue};
-  font-weight: 600;
+  font-weight: 400;
 
   span:first-child {
     color: ${dark.greenhue};

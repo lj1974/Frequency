@@ -12,8 +12,8 @@ export default function Information() {
       <GoBack label="Click anywhere to hide it" />
       <Texts>
         <h3>Atualization</h3>
-        <p>A ultíma atualização das palavras foi em 26/11/2022. </p>
-        <p>The last atualization of the words was in 11/26/2022.</p>
+        <p>A ultíma atualização das palavras foi em 16/04/2023. </p>
+        <p>The last atualization of the words was in 04/16/2023.</p>
       </Texts>
       <Texts>
         <h3>Contact</h3>

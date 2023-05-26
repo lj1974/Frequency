@@ -44,6 +44,10 @@ const Container = styled.div`
     opacity: ${() => (isSelected ? 1 : 0)};
   }
 
+  &:hover {
+    cursor: pointer;
+  }
+
   h4 {
     display: ${() => (isSelected ? "flex" : "none")};
     font-size: calc(8px + ${fonts_size.md});
